@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+pet.log
+settings.json
+.idea/
+.workbuddy/
